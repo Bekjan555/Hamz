@@ -27,4 +27,7 @@
 }
 .veiw__btn{
     padding: 6px 30px 6px 30px;
+    border-radius: 100px;
+    font-weight: 700;
+    background-color: #a6b812;
 }
