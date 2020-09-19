@@ -1,0 +1,15 @@
+.nav__menu{
+    width: 368px;
+    justify-content: space-between;
+}
+.header__nav{
+    justify-content: space-between;
+}
+.nav__logo{
+    font-size: 24px;
+    font-family: var(--roboto);
+}
+.nav__menu{
+    font-size: 16px;
+    font-family: var(--sans);
+}
