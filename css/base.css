@@ -1,0 +1,35 @@
+.container{
+    max-width: 1170px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style: none;
+    align-items: center;
+}
+.our-bg{
+    background: url(../imgs/our-bg.png) center no-repeat;
+}
+.col-7{
+    width: 60%;
+}
+.col-6{
+    width: 50%;
+}
+.col-8{
+    width: 70%;
+}
+.col-5{
+    width: 40%;
+}

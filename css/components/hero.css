@@ -1,0 +1,17 @@
+.hero__content{
+}
+.content__big{
+    font-size: 80px;
+    font-family: var(--ubun);
+    line-height: 80px;
+}
+.content__small{
+    font-size: 16px;
+    font-family: var(--over);
+    letter-spacing: 3px;
+    line-height: 32px;
+    justify-content: space-between;
+}
+.small__title{
+    width: 80%;
+}
