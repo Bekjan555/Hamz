@@ -1,5 +1,6 @@
 :root{
-    --sans: 'DM Sans', sans-serif;
-    --antiqua: 'Inknut Antiqua', serif;
-    --roboto: 'Roboto Condensed', sans-serif;
+    --over: 'Overpass', sans-serif;
+    --ubun: 'Ubuntu', sans-serif;
+    --blue: #1a0e4b;
+    --green: #598117;
 }
