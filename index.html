@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width,
      initial-scale=1.0">
     <title>Hamz</title>
+	<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="imgs/slick.css"/>
     <link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;600&family=Ubuntu:wght@700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/index.css">
 </head>
@@ -64,5 +66,69 @@
         </div>
     </section>
     </div>
+
+<section class="price flex">
+    <div class="container">
+    <div class="price__slider slider flex">
+        <div class="slider__box">
+            <span class="slider__title">
+                Individual
+            </span>
+            <p class="slider__dollars greenword">
+               <b class="numbers">$59.85</b>/Mon
+            </p>
+            <p class="slider__discription">
+                Juniors must be less than 19
+years old as at 1st January.
+<span class="greenword">Save $98</span>  every year compared
+to the monthly plan by paying
+yearly.
+            </p>
+            <a class="box__btn" href="#">
+                Purchase Now
+            </a>
+        </div>
+
+        <div class="slider__box">
+            <span class="slider__title">
+                Family Plan
+            </span>
+            <p class="slider__dollars greenword">
+               <b class="numbers">$59.85</b>/Mon
+            </p>
+            <p class="slider__discription">
+                Juniors must be less than 19
+years old as at 1st January.
+<span class="greenword">Save $98</span>  every year compared
+to the monthly plan by paying
+yearly.
+            </p>
+            <a class="box__btn" href="#">
+                Purchase Now
+            </a>
+        </div>
+
+        <div class="slider__over-box">
+            <h1 class="over-box__title">
+                What can you do at Hamz golf club?
+            </h1>
+            <p class="over-box__discription">
+                Duis aute irure dolor in reprehenderit voluptate
+velit esse cillum dolore essel golden.
+            </p>
+        </div>
+        </div>
+    </div>
+</section>
+
+
+    <script>
+		$('.price__slider').slick({
+        autoplay: true,
+	    infinite: true,
+	    slidesToShow: 1,
+	    slidesToScroll: 1,
+	});
+	</script>
 </body>
 </html>
