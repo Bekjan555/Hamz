@@ -1,9 +1,6 @@
 .price{
     margin-top: 121px;
 }
-.price__slider{
-    justify-content: space-between;
-}
 .slider__box{
     height: 484px;
     max-width: 370px;
@@ -48,4 +45,38 @@
 .over-box__discription{
     color: #6e7891;
     font-family: var(--over);
+}
+.slider {
+    max-width: 700px;
+}
+.slider .slick-next,
+ .slick-prev{
+    display: none;
+}
+.slick-dots{
+    display: flex;
+    position: absolute;
+    right: -150px;
+    bottom: 110px;
+}
+.slick-dots li button{
+    width: 15px;
+    background-color: #c1ceae;
+    outline: none;
+    border: 0;
+    font-size: 0;
+    height: 8px;
+    border-radius: 100px;
+    margin-left: 20px;
+    transition: 0.5s;
+}
+.slick-dots .slick-active button{
+    width: 30px;
+    background-color: var(--green);
+    outline: none;
+    border: 0;
+    font-size: 0;
+    height: 8px;
+    color: #c1ceae;
+    border-radius: 100px;
 }
