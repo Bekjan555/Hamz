@@ -15,3 +15,15 @@
 .f-bl{
     color: var(--blue);
 }
+.text-blue {
+    color: var(--darkblue);
+}
+.text-gray {
+    color: var(--gray);
+}
+.text-center {
+    text-align: center;
+}
+
+
+
