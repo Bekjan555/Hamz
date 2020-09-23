@@ -1,0 +1,9 @@
+.events{
+    background: url(/imgs/green-bg.png) center no-repeat;
+}
+.events__words{
+    width: 528px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
