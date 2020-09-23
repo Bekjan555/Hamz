@@ -1,34 +1,45 @@
 .onfoot{
-    background: url(/imgs/onfoot-bg.png) center no-repeat;
+    background: #f8f9f6;
 }
 .onfoot__table{
     justify-content: space-between;
+}
+.onfoot__discription{
+    width: 523px;
+    margin: auto;
+    height: 100px;
 }
 .onfoot__words{
     text-align: center;
 }
 .onfoot__title{
     font-size: 60px;
+    margin: 50px 0 50px 0;
 }
 .table__link{
     color: var(--green);
     font-size: 15px;
 }
-.box-1{
-    height: 300px;
-    width: 470px;
-}
-.box-2{
-    height: 158px;
-    width: 170px;
-}
 .table__discription{
     font-size: 15px;
 }
+.box-1{
+    width: 100%;
+    border-radius: 5px;
+}
+.box-2{
+    height: 160px;
+    width: 170px;
+    border-radius: 5px;
+}
 h4{
-    margin: 30px 0 5px 0;
+    margin: 20px 0 5px 0;
     font-size: 25px;
 }
 .col-12{
     margin: 0px 0 20px 0;
+    border-radius: 5px;
+}
+.table__words{
+    padding: 0 30px 0 30px;
 }
