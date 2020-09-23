@@ -19,6 +19,7 @@ ul{
     align-items: center;
 }
 .our-bg{
+    height: 860px;
     background: url(../imgs/our-bg.png) center no-repeat;
 }
 .col-7{

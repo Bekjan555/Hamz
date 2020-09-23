@@ -20,11 +20,14 @@
     color: var(--green);
 }
 .join__btn{
-    background-color: #a6b812;
+    background-color: var(--btn);
     padding: 10px 45px 11px 45px;
     border-radius: 100px;
     font-weight: 700;
 }
 .veiw__btn{
     padding: 6px 30px 6px 30px;
+    border-radius: 100px;
+    font-weight: 700;
+    background-color: var(--btn);
 }
