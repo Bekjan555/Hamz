@@ -1,7 +1,6 @@
 .row {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
 }
 .flex {
     display: flex;
@@ -14,4 +13,15 @@
 }
 .f-bl{
     color: var(--blue);
+}
+.f-gr{
+    color: #6e7891;
+}
+.col-5{
+    height: 521px;
+    width: 470px;
+}
+.col-7{
+    height: 521px;
+    width: 670px;
 }
