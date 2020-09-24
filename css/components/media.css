@@ -8,6 +8,9 @@
     }
 }
 @media screen and (max-width: 768px){
+    .slider{
+        max-width: 760px;
+    }
     .nav__menu{
         width: 300px;
     }
@@ -36,11 +39,6 @@
     .slick-dots{
         bottom: -50px;
         left: 0;
-    }
-}
-@media screen and (max-width: 768px){
-    .slider{
-        max-width: 380px;
     }
 }
 @media screen and (max-width: 425px){
