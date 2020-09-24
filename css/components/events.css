@@ -13,7 +13,7 @@
     height: 231px;
 }
 .carts__sector{
-    width: 572px;
+    max-width: 572px;
     background: white;
     border: 5px solid white;
     border-radius: 3px;
@@ -38,7 +38,7 @@
     height: 50px;
 }
 .events__words{
-    width: 530px;
+    max-width: 530px;
     margin: 0 auto;
     text-align: center;
     color: white;

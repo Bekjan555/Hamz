@@ -5,7 +5,7 @@
     justify-content: space-between;
 }
 .onfoot__discription{
-    width: 523px;
+    max-width: 523px;
     margin: auto;
     height: 100px;
 }
