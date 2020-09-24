@@ -3,10 +3,11 @@
 }
 
 .members__column {
-    width: 235px;
+    width: 236px;
     background-color: var(--green);
     color: var(--white);
     border-radius: 100px 100px 50px 50px;
+    height: 390px;
 }
 .members__column:hover {
     background-color: #29abe2;
@@ -21,7 +22,7 @@
     width: 236px;
     height: 243px;
     border-radius: 50%;
-    margin: auto;
+    margin-top: -15px;
 }
 .trainers__img {
     margin: -9px 0 0 -12px;
