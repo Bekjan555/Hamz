@@ -1,5 +1,5 @@
 .onfoot{
-    background: #f8f9f6;
+    background: url(../../imgs/onfoot-bg.png) center no-repeat;
 }
 .onfoot__table{
     justify-content: space-between;

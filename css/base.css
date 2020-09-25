@@ -17,7 +17,7 @@ ul{
     list-style: none;
     align-items: center;
 }
-.our-bg{
+.header-bg{
     height: 860px;
     background: url(../imgs/our-bg.png) center no-repeat;
 }
