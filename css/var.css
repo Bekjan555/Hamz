@@ -1,18 +1,14 @@
 :root{
     --over: 'Overpass', sans-serif;
-    --ubun: 'Ubuntu', sans-serif;
+    --overb: "Overpass-Bold" , sans-serif;
+    --overr: "Overpass-Regular", sans-serif;
+    --ubun: 'Ubuntu-Bold', sans-serif;
     --blue: #1a0e4b;
-    /* --green: #598117; */
     --white: #ffffff ;
     --darkblue : #1a0e4b;
-    --darkorange : #ff3600;
-    --orange : #ff9600;
     --gray : #6e7891;
-    --green : #779d09;
-    --azure: #29abe2;
-    --pearl : #2f5a78;
-    --black: #1e1f24;
-    --halfbg: #67a869;
-    --darkwhite: #f6f8f3;
-    --ddarkwhite: #d7e3c6;
+    --green: #598117;
+    --btn: #a6b812;
 }
+
+

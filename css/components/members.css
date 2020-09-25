@@ -1,0 +1,53 @@
+.members {
+    margin-top: 100px;
+}
+
+.members__column {
+    width: 236px;
+    background-color: var(--green);
+    color: var(--white);
+    border-radius: 100px 100px 50px 50px;
+    height: 390px;
+}
+.members__column:hover {
+    background-color: #29abe2;
+}
+.members__row {
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.members__img {
+    overflow: hidden;
+    background-color: green;
+    width: 236px;
+    height: 243px;
+    border-radius: 50%;
+    margin-top: -15px;
+}
+.trainers__img {
+    margin: -9px 0 0 -12px;
+}
+.trainers__img2 {
+    margin: -9px 0 0 -12px;
+}
+.members__title {
+    font-size: 25px;
+line-height: 55px;
+font-family: var(--ubun);
+margin-bottom: 0;
+}
+.members__subtitle {
+    font-size: 16px;
+font-family: var(--overr);
+}
+
+
+
+
+
+
+
+
+
+
+
