@@ -15,6 +15,9 @@
 .f-bl{
     color: var(--blue);
 }
+.f-blue{
+    color: var(--blue);
+}
 .text-blue {
     color: var(--darkblue);
 }
@@ -24,6 +27,23 @@
 .text-center {
     text-align: center;
 }
-
-
-
+.f-gray{
+    color: #6e7891;
+}
+.col-4{
+    width: 33.33%;
+    background-color: #fff;
+}
+.col-8{
+    width: 66.66%;
+    border-radius: 5px;
+}
+.col-12{
+    background-color: #fff;
+}
+.shadow{
+    box-shadow: 0 0 3px 1px #eeefec;
+}
+.pocket{
+    padding: 0 0 0 30px;
+}
